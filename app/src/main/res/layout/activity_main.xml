@@ -9,7 +9,7 @@
     tools:context="com.udacity.jonathan.tourorlandoapp.MainActivity">
     <View style="@style/Divider"/>
     <TextView
-        android:id="@+id/workout_playlist"
+        android:id="@+id/theme_park_list"
         android:layout_height="0dp"
         android:layout_weight="1"
         style="@style/CategoryStyle"
@@ -18,7 +18,7 @@
         android:textAlignment="center"/>
     <View style="@style/Divider"/>
     <TextView
-        android:id="@+id/hiphop_playlist"
+        android:id="@+id/restaurant_list"
         android:layout_height="@dimen/text_v_layout_height"
         android:layout_weight="1"
         style="@style/CategoryStyle"
@@ -28,7 +28,7 @@
     <View style="@style/Divider"
         />
     <TextView
-        android:id="@+id/focus_playlist"
+        android:id="@+id/hotel_list"
         android:layout_height="@dimen/text_v_layout_height"
         android:layout_weight="1"
         style="@style/CategoryStyle"
@@ -37,7 +37,7 @@
         android:textAlignment="center"/>
     <View style="@style/Divider"/>
     <TextView
-        android:id="@+id/chill_playlist"
+        android:id="@+id/night_clubs_list"
         android:layout_height="@dimen/text_v_layout_height"
         android:layout_weight="1"
         style="@style/CategoryStyle"
