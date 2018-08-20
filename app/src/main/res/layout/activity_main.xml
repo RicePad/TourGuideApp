@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_background"
+    android:orientation="vertical"
+    tools:context="com.udacity.jonathan.tourorlandoapp.MainActivity">
+    <View style="@style/Divider"/>
+    <TextView
+        android:id="@+id/workout_playlist"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        style="@style/CategoryStyle"
+        android:background="@color/playlist_color_darkblue"
+        android:text="@string/theme_park_list"
+        android:textAlignment="center"/>
+    <View style="@style/Divider"/>
+    <TextView
+        android:id="@+id/hiphop_playlist"
+        android:layout_height="@dimen/text_v_layout_height"
+        android:layout_weight="1"
+        style="@style/CategoryStyle"
+        android:background="@color/playlist_color_lightblue"
+        android:text="@string/restaurant_list"
+        android:textAlignment="center"/>
+    <View style="@style/Divider"
+        />
+    <TextView
+        android:id="@+id/focus_playlist"
+        android:layout_height="@dimen/text_v_layout_height"
+        android:layout_weight="1"
+        style="@style/CategoryStyle"
+        android:background="@color/playlist_color_darkblue"
+        android:text="@string/hotel_list"
+        android:textAlignment="center"/>
+    <View style="@style/Divider"/>
+    <TextView
+        android:id="@+id/chill_playlist"
+        android:layout_height="@dimen/text_v_layout_height"
+        android:layout_weight="1"
+        style="@style/CategoryStyle"
+        android:background="@color/playlist_color_lightblue"
+        android:text="@string/night_clubs_list"
+        android:textAlignment="center"/>
+    <View style="@style/Divider"/>
+</LinearLayout>

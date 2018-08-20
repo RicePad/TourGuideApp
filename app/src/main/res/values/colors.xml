@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#3F51B5</color>
+    <color name="primary_dark_color">#303F9F</color>
+    <color name="white_background">#ffff</color>
+    <color name="playlist_color_darkblue">#303F9F</color>
+    <color name="playlist_color_lightblue">#3F51B5</color>
+
+</resources>
