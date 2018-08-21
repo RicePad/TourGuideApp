@@ -22,11 +22,16 @@
             android:id="@+id/attraction_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:text="title" />
+            tools:text="title"
+            android:textColor="#fff"
+            android:paddingTop="5dp"/>
         <TextView
             android:id="@+id/default_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            tools:text="description"/>
+            tools:text="description"
+            android:textColor="#fff"
+            android:paddingTop="5dp"/>
+        />
     </LinearLayout>
 </LinearLayout>

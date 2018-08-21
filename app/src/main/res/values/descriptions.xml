@@ -1,39 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Attraction description -->
-    <string name="magic_kingdom">Magic Kingdom</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-    <!-- Attraction description -->
-    <string name="miwok_color_red">weṭeṭṭi</string>
-
-
+    <!-- ThemePark description -->
+    <string name="magic_kingdom_description">Make dreams come true with timeless attractions.</string>
+    <string name="animal_kingdom_description">Behold the Magic of Nature with Rare Animals.</string>
+    <string name="epcot_description">Travel Around the Globe, Under the Sea.</string>
+    <string name="disney_studio_description">Take Center Stage in the Worlds of Movies.</string>
+    <string name="disney_typhoon_description">Soak up a storm of fun under the Florida sun.</string>
 </resources>

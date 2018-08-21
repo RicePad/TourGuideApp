@@ -5,7 +5,9 @@
     <color name="white_background">#ffff</color>
     <color name="playlist_color_darkblue">#303F9F</color>
     <color name="playlist_color_lightblue">#3F51B5</color>
-    <!-- Background color for the numbers category -->
-    <color name="category_numbers">#FD8E09</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+    <!-- Background color for themepark category -->
+    <color name="category_numbers">#3F51B5</color>
 
 </resources>

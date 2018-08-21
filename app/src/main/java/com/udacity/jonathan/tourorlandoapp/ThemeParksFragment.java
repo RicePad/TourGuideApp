@@ -32,15 +32,15 @@ public class ThemeParksFragment extends Fragment {
         // Create a list of words
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
 
-        attractions.add(new Attraction(R.string.number_one, R.string.magic_kingdom,
+        attractions.add(new Attraction(R.string.magic_kingdom_title, R.string.magic_kingdom_description,
                 R.drawable.number_one));
-        attractions.add(new Attraction(R.string.number_one, R.string.magic_kingdom,
+        attractions.add(new Attraction(R.string.animal_kingdom_title, R.string.animal_kingdom_description,
                 R.drawable.number_one));
-        attractions.add(new Attraction(R.string.number_one, R.string.magic_kingdom,
+        attractions.add(new Attraction(R.string.epcot_kingdom_title, R.string.epcot_description,
                 R.drawable.number_one));
-        attractions.add(new Attraction(R.string.number_one, R.string.magic_kingdom,
+        attractions.add(new Attraction(R.string.disney_studio_title, R.string.disney_studio_description,
                 R.drawable.number_one));
-        attractions.add(new Attraction(R.string.number_one, R.string.magic_kingdom,
+        attractions.add(new Attraction(R.string.disney_typhoon_title, R.string.disney_typhoon_description,
                 R.drawable.number_one));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
