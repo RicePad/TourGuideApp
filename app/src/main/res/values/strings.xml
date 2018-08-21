@@ -11,4 +11,7 @@
     <string name="epcot_kingdom_title">Epcot</string>
     <string name="disney_studio_title">Diney Studio</string>
     <string name="disney_typhoon_title">Disney Typhoon </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
