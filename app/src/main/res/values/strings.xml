@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">TourOrlando</string>
-    <string name="theme_park_list">Theme Parks</string>
-    <string name="restaurant_list">Restaurants</string>
-    <string name="hotel_list">Hotels</string>
-    <string name="night_clubs_list">Night Clubs</string>
+    <string name="theme_park_category">Parks</string>
+    <string name="restaurant_category">Dining</string>
+    <string name="hotel_category">Stay</string>
+    <string name="night_clubs_category">Evening</string>
     <!-- Theme Park Titles [CHAR LIMIT=20] -->
     <string name="magic_kingdom_title">Magic Kingdom</string>
     <string name="animal_kingdom_title">Animal Kingdom</string>

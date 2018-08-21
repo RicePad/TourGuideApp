@@ -31,15 +31,15 @@ public class ThemeParksFragment extends Fragment {
         final ArrayList<Attraction> attractions = new ArrayList<Attraction>();
 
         attractions.add(new Attraction(R.string.magic_kingdom_title, R.string.magic_kingdom_description,
-                R.drawable.number_one));
+                R.drawable.disney2));
         attractions.add(new Attraction(R.string.animal_kingdom_title, R.string.animal_kingdom_description,
-                R.drawable.number_one));
+                R.drawable.crab));
         attractions.add(new Attraction(R.string.epcot_kingdom_title, R.string.epcot_description,
-                R.drawable.number_one));
+                R.drawable.diet));
         attractions.add(new Attraction(R.string.disney_studio_title, R.string.disney_studio_description,
-                R.drawable.number_one));
+                R.drawable.magic_wand));
         attractions.add(new Attraction(R.string.disney_typhoon_title, R.string.disney_typhoon_description,
-                R.drawable.number_one));
+                R.drawable.splash));
 
         // Create an {@link AttractionAdapter}, whose data source is a list of {@link Attraction}s. The
         // adapter knows how to create list items for each item in the list.

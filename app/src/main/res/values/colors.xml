@@ -9,5 +9,8 @@
     <color name="tan_background">#FFF7DA</color>
     <!-- Background color for themepark category -->
     <color name="category_numbers">#3F51B5</color>
+    <color name="tab_color">#C5CAE9</color>
+    <color name="tab_text_color">#000</color>
+
 
 </resources>
