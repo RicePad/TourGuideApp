@@ -4,6 +4,21 @@
     <string name="restaurant_list">Restaurants</string>
     <string name="hotel_list">Hotels</string>
     <string name="night_clubs_list">Night Clubs</string>
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="number_one">one</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="number_two">two</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="number_three">three</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="number_four">four</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="number_five">five</string>
+
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
