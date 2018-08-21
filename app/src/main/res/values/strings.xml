@@ -4,14 +4,30 @@
     <string name="restaurant_list">Restaurants</string>
     <string name="hotel_list">Hotels</string>
     <string name="night_clubs_list">Night Clubs</string>
-
     <!-- Theme Park Titles [CHAR LIMIT=20] -->
     <string name="magic_kingdom_title">Magic Kingdom</string>
     <string name="animal_kingdom_title">Animal Kingdom</string>
     <string name="epcot_kingdom_title">Epcot</string>
     <string name="disney_studio_title">Diney Studio</string>
     <string name="disney_typhoon_title">Disney Typhoon </string>
-
+    <!-- Restaurant Titles [CHAR LIMIT=20] -->
+    <string name="restaurant_title_1">The Rusty Spoon</string>
+    <string name="restaurant_title_2">Bar Harbor Seafood</string>
+    <string name="restaurant_title_3">The Gnarly Barley</string>
+    <string name="restaurant_title_4">Artisan’s Table</string>
+    <string name="restaurant_title_5">The Stubborn Mule</string>
+    <!-- Hotel Titles [CHAR LIMIT=20] -->
+    <string name="hotel_title_1">Hyatt Regency Orlando</string>
+    <string name="hotel_title_2">Hyatt Regency Grand Cypress</string>
+    <string name="hotel_title_3">Disney Grand Floridian ResortSpa</string>
+    <string name="hotel_title_4">Rosen Shingle Creek</string>
+    <string name="hotel_title_5">Marriott Lakeshore Reserve</string>
+    <!-- Night Club Titles [CHAR LIMIT=20] -->
+    <string name="night_club_title_1"> ICEBAR Orlando</string>
+    <string name="night_club_title_2">Eve Orlando</string>
+    <string name="night_club_title_3"> Independent Bar</string>
+    <string name="night_club_title_4">Haven Orlando</string>
+    <string name="night_club_title_5">Soundbar</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

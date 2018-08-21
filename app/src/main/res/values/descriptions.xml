@@ -6,4 +6,22 @@
     <string name="epcot_description">Travel Around the Globe, Under the Sea.</string>
     <string name="disney_studio_description">Take Center Stage in the Worlds of Movies.</string>
     <string name="disney_typhoon_description">Soak up a storm of fun under the Florida sun.</string>
+    <!-- Restaurant description -->
+    <string name="restaurant_description_1">Great place. One of the few restaurants in town that is run by a woman!</string>
+    <string name="restaurant_description_2">Really high quality food, pretty good craft beers, great location for a patio.</string>
+    <string name="restaurant_description_3">Great restaurant with delicious drinks and great beer selection.</string>
+    <string name="restaurant_description_4">Loved this place in Orlando Downtown during my last business trip.</string>
+    <string name="restaurant_description_5">I came here on a date and overall really liked the ambiance.</string>
+    <!-- Hotel Description [CHAR LIMIT=20] -->
+    <string name="hotel_description_1">My family and I spent a week at the Marriott Lakeshore Reserve and had a great time.</string>
+    <string name="hotel_description_2">We were having a horrible trip because it wasn’t raining</string>
+    <string name="hotel_description_3">We spent a week in one of the two bedroom villas.</string>
+    <string name="hotel_description_4">Where do I even start ? Check in was easy.</string>
+    <string name="hotel_description_5">Great for families wanting more room</string>
+    <!-- Night Club Description [CHAR LIMIT=20] -->
+    <string name="night_club_description_1">Cool vibe, good music and I enjoyed my time here.</string>
+    <string name="night_club_description_2">Found this place to be a cool bar , with a chill vibe and friendly staff.</string>
+    <string name="night_club_description_3">YES, there is a cover charge and YES it is MEGA worth it!</string>
+    <string name="night_club_description_4">All in all, great place to visit while a night out downtown!</string>
+    <string name="night_club_description_5">The staff was very friendly and nice but thats the only thing I liked about this place.</string>
 </resources>
