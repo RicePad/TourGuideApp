@@ -1,48 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white_background"
+    android:background="@color/tan_background"
     android:orientation="vertical"
-    tools:context="com.udacity.jonathan.tourorlandoapp.MainActivity">
-    <View style="@style/Divider"/>
-    <TextView
-        android:id="@+id/theme_park_list"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        style="@style/CategoryStyle"
-        android:background="@color/playlist_color_darkblue"
-        android:text="@string/theme_park_list"
-        android:textAlignment="center"/>
-    <View style="@style/Divider"/>
-    <TextView
-        android:id="@+id/restaurant_list"
-        android:layout_height="@dimen/text_v_layout_height"
-        android:layout_weight="1"
-        style="@style/CategoryStyle"
-        android:background="@color/playlist_color_lightblue"
-        android:text="@string/restaurant_list"
-        android:textAlignment="center"/>
-    <View style="@style/Divider"
-        />
-    <TextView
-        android:id="@+id/hotel_list"
-        android:layout_height="@dimen/text_v_layout_height"
-        android:layout_weight="1"
-        style="@style/CategoryStyle"
-        android:background="@color/playlist_color_darkblue"
-        android:text="@string/hotel_list"
-        android:textAlignment="center"/>
-    <View style="@style/Divider"/>
-    <TextView
-        android:id="@+id/night_clubs_list"
-        android:layout_height="@dimen/text_v_layout_height"
-        android:layout_weight="1"
-        style="@style/CategoryStyle"
-        android:background="@color/playlist_color_lightblue"
-        android:text="@string/night_clubs_list"
-        android:textAlignment="center"/>
-    <View style="@style/Divider"/>
+    tools:context="com.udacity.jonathan.tourorlandoapp.MainActivity">>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 </LinearLayout>
+
+
+
+
